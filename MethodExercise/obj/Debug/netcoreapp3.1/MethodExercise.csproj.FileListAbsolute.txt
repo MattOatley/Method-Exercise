@@ -1,0 +1,13 @@
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.exe
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.deps.json
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.json
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.dev.json
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfo.cs
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\matth\Desktop\repos2\MethodExerciseApp\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.genruntimeconfig.cache
