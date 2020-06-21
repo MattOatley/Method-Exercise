@@ -41,7 +41,6 @@ namespace MethodExercise
 
             Console.WriteLine("How many numbers do you want to add together?");
             int userAmount = int.Parse(Console.ReadLine());
-
             int[] numbers = new int[userAmount];
 
             for (int i = 0; i < userAmount; i++)
@@ -56,7 +55,8 @@ namespace MethodExercise
 
             int sumAll = Sum(numbers);
 
-            Console.WriteLine(sumAll);
+            Console.WriteLine($"Here is the value of the numbers you have selected - {sumAll}");
+            Console.WriteLine("Thank you for reading through my program, press enter to end the demonstration.");
             Console.ReadLine();
 
         } 
